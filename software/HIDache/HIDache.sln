@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HIDache", "HIDache.csproj", "{623C8162-124F-430A-A84C-CE7E261E3698}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HIDacheObjects", "..\HIDacheObjects\HIDacheObjects.csproj", "{D5A1DF9D-A5A9-4D0F-ADDC-DB931507AD78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USBComm", "..\USBComm\USBComm.csproj", "{C0535CBA-964E-4BC0-8A66-A69B8C779DD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{623C8162-124F-430A-A84C-CE7E261E3698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{623C8162-124F-430A-A84C-CE7E261E3698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{623C8162-124F-430A-A84C-CE7E261E3698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{623C8162-124F-430A-A84C-CE7E261E3698}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5A1DF9D-A5A9-4D0F-ADDC-DB931507AD78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A1DF9D-A5A9-4D0F-ADDC-DB931507AD78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A1DF9D-A5A9-4D0F-ADDC-DB931507AD78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A1DF9D-A5A9-4D0F-ADDC-DB931507AD78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0535CBA-964E-4BC0-8A66-A69B8C779DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0535CBA-964E-4BC0-8A66-A69B8C779DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0535CBA-964E-4BC0-8A66-A69B8C779DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0535CBA-964E-4BC0-8A66-A69B8C779DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
